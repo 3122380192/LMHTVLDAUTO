@@ -219,7 +219,7 @@ function isNewerVersion(oldVer, newVer) {
 function checkAppUpdate(mainWindow) {
   const currentVersion = app.getVersion();
   const https = require('https');
-  const updateUrl = 'https://raw.githubusercontent.com/3122380192/AUTOTXv1.0/main/update.json';
+  const updateUrl = 'https://raw.githubusercontent.com/3122380192/lol-auto-accept-master/main/update.json';
   
   logger.info(`Checking for updates... Current version: ${currentVersion}`);
   
@@ -239,7 +239,7 @@ function checkAppUpdate(mainWindow) {
             logger.info(`Update required: current ${currentVersion}, remote ${updateInfo.version}`);
             mainWindow.webContents.send('update-required', {
               version: updateInfo.version,
-              url: updateInfo.url || 'https://github.com/3122380192/AUTOTXv1.0/releases',
+              url: updateInfo.url || 'https://github.com/3122380192/lol-auto-accept-master/releases',
               message: updateInfo.message || 'Phát hiện phiên bản mới! Bạn cần cập nhật để tiếp tục sử dụng ứng dụng.'
             });
           } else {
