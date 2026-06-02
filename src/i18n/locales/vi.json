@@ -1,0 +1,117 @@
+{
+  "menu": {
+    "main": "Trang chủ",
+    "duo": "Đồng đội",
+    "rank": "Xếp hạng",
+    "recentPlayers": "Gần đây",
+    "aram": "ARAM",
+    "selectedRole": "Luật hàng chờ",
+    "about": "Giới thiệu"
+  },
+  "main": {
+    "acceptMatchmaking": "Chấp nhận trận",
+    "declineMatchmaking": "Từ chối trận",
+    "forceKillLoL": "Tắt nhanh LoL",
+    "autoAccept": "Tự động chấp nhận trận",
+    "displayTeammateScore": "Hiện xếp hạng đồng đội khi chọn tướng",
+    "displayRecentTeammate": "Hiện đồng đội cũ khi chọn tướng",
+    "showTeammateRankedType": {
+      "soloDuo": "Đơn/Đôi",
+      "flex": "Linh hoạt",
+      "both": "Đơn/Đôi/Linh hoạt"
+    },
+    "modifyHovercard": "Đổi Thẻ Thông Tin (Hovercard)",
+    "rankedType": {
+      "soloDuo": "Xếp hạng Đơn/Đôi",
+      "flex": "Xếp hạng Linh hoạt",
+      "flexSR": "Xếp hạng Linh hoạt 5v5",
+      "flexTT": "Xếp hạng Linh hoạt 3v3",
+      "tft": "Đấu Trường Chân Lý",
+      "tftDoubleUp": "ĐTCL: Cặp Đôi Hoàn Hảo",
+      "tftTurbo": "ĐTCL: Xúc Xắc Điên Cuồng"
+    },
+    "tierType": {
+      "challenger": "Thách Đấu",
+      "grandmaster": "Đại Cao Thủ",
+      "master": "Cao Thủ",
+      "diamond": "Kim Cương",
+      "platinum": "Bạch Kim",
+      "gold": "Vàng",
+      "silver": "Bạc",
+      "bronze": "Đồng",
+      "iron": "Sắt"
+    },
+    "appStates": {
+      "lolNotOpen": "LoL chưa mở",
+      "lolClosed": "LoL đã tắt",
+      "lolStarting": "LoL đang khởi động"
+    },
+    "closedProcessesCount": "Đã tắt {{count}} tiến trình",
+    "autoPick": "Tự động khóa tướng (Auto Pick)",
+    "autoBan": "Tự động cấm tướng (Auto Ban)",
+    "autoChat": "Tự động chat khi vào phòng (Auto Chat)",
+    "autoSpellsRunes": "Tự động phép bổ trợ & ngọc bổ trợ",
+    "autoRequeue": "Tự động tìm trận lại khi có người thoát",
+    "offlineMode": "Chế độ Ngoại tuyến / Ẩn danh (Offline Mode)",
+    "lobbyCustomizer": "Cá nhân hóa sảnh / Profile (Lobby Customizer)",
+    "spell1": "Phép bổ trợ 1",
+    "spell2": "Phép bổ trợ 2",
+    "runePreset": "Bảng ngọc đề xuất",
+    "pickChamp": "Chọn tướng khóa",
+    "banChamp": "Chọn tướng cấm",
+    "chatMessage": "Nội dung tin nhắn chat",
+    "chatPlaceholder": "Ví dụ: mid please...",
+    "backgroundChampion": "Chọn ảnh nền Profile",
+    "setBackground": "Áp dụng nền",
+    "backgroundSuccess": "Đã thay đổi ảnh nền Profile thành công!",
+    "backgroundError": "Thay đổi ảnh nền thất bại!"
+  },
+  "gamePhases": {
+    "none": "Sảnh chờ",
+    "lobby": "Đang trong phòng chờ",
+    "matchmaking": "Đang tìm trận",
+    "readyCheck": "Tìm thấy trận, chờ chấp nhận",
+    "champSelect": "Đang chọn tướng",
+    "gameStart": "Trận đấu bắt đầu",
+    "inProgress": "Đang trong trận",
+    "preEndOfGame": "Trận đấu sắp kết thúc",
+    "endOfGame": "Kết thúc trận đấu"
+  },
+  "aram": {
+    "alwaysOnTop": "Luôn trên cùng",
+    "clear": "Xóa hết",
+    "champion": "Tướng",
+    "summoner": "Người chơi",
+    "isYou": "Bạn",
+    "balanceTab": "Cân bằng",
+    "pickTab": "Chọn tướng",
+    "balance": {
+      "damage_dealt": "Gây sát thương",
+      "damage_taken": "Nhận sát thương",
+      "healing": "Hồi máu",
+      "shield_mod": "Lượng lá chắn",
+      "tenacity": "Kháng hiệu ứng",
+      "energy_regeneration": "Hồi năng lượng/nội năng",
+      "ability_haste": "Điểm hồi kỹ năng",
+      "attack_speed_scaling": "Tỷ lệ tốc độ đánh"
+    }
+  },
+  "about": {
+    "author": "Tác giả",
+    "currentVersion": "Phiên bản hiện tại",
+    "help": "Cảm ơn bạn đã tin dùng sản phẩm của Vua Lì Đòn!\n<br/>\nSự ủng hộ và phản hồi của bạn là động lực lớn nhất giúp tôi liên tục tối ưu và nâng cấp phần mềm tốt hơn.\n"
+  },
+  "common": {
+    "teamOne": "Đội Xanh",
+    "teamTwo": "Đội Đỏ",
+    "premade": {
+      "solo": "Đơn",
+      "duo": "Đôi",
+      "trio": "Tổ đội 3",
+      "quad": "Tổ đội 4",
+      "quint": "Tổ đội 5"
+    },
+    "copy_success": "Đã sao chép",
+    "copy_failure": "Sao chép thất bại"
+  }
+}

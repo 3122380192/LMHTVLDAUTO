@@ -1,0 +1,117 @@
+{
+  "menu": {
+    "main": "主頁",
+    "duo": "雙排",
+    "rank": "積分",
+    "recentPlayers": "最近遇過",
+    "aram": "隨機單中",
+    "selectedRole": "列隊規則",
+    "about": "關於"
+  },
+  "main": {
+    "acceptMatchmaking": "接受對戰",
+    "declineMatchmaking": "拒絕對戰",
+    "forceKillLoL": "強制關閉LOL",
+    "autoAccept": "自動接受對戰",
+    "displayTeammateScore": "選角時，顯示隊友積分",
+    "displayRecentTeammate": "選角時，顯示最近遇過",
+    "showTeammateRankedType": {
+      "soloDuo": "單雙",
+      "flex": "彈性",
+      "both": "單雙/彈性"
+    },
+    "modifyHovercard": "修改名片",
+    "rankedType": {
+      "soloDuo": "單雙",
+      "flex": "彈性",
+      "flexSR": "彈性5x5",
+      "flexTT": "彈性3x3",
+      "tft": "戰棋",
+      "tftDoubleUp": "雙人搭檔",
+      "tftTurbo": "超級抽抽樂"
+    },
+    "tierType": {
+      "challenger": "菁英",
+      "grandmaster": "宗師",
+      "master": "大師",
+      "diamond": "鑽石",
+      "platinum": "白金",
+      "gold": "金牌",
+      "silver": "銀牌",
+      "bronze": "銅牌",
+      "iron": "鐵牌"
+    },
+    "appStates": {
+      "lolNotOpen": "LOL未開啟",
+      "lolClosed": "LOL已關閉",
+      "lolStarting": "LOL啟動中"
+    },
+    "closedProcessesCount": "已關閉 {{count}} 個處理程序",
+    "autoPick": "自動鎖角 (Auto Pick)",
+    "autoBan": "自動禁角 (Auto Ban)",
+    "autoChat": "自動發送聊天訊息 (Auto Chat)",
+    "autoSpellsRunes": "自動設定召喚師技能與符文",
+    "autoRequeue": "秒退後自動重新列隊 (Auto Requeue)",
+    "offlineMode": "隱身模式 / 離線 (Offline Mode)",
+    "lobbyCustomizer": "自訂大廳背景 (Lobby Customizer)",
+    "spell1": "召喚師技能 1",
+    "spell2": "召喚師技能 2",
+    "runePreset": "符文配置",
+    "pickChamp": "選擇鎖定英雄",
+    "banChamp": "選擇禁用英雄",
+    "chatMessage": "聊天訊息內容",
+    "chatPlaceholder": "例如: mid please...",
+    "backgroundChampion": "選擇大廳背景英雄",
+    "setBackground": "套用背景",
+    "backgroundSuccess": "成功更換背景！",
+    "backgroundError": "更換背景失敗！"
+  },
+  "gamePhases": {
+    "none": "遊戲大廳",
+    "lobby": "組隊中",
+    "matchmaking": "列隊等待中",
+    "readyCheck": "已排到對戰，等待接受",
+    "champSelect": "選擇英雄中",
+    "gameStart": "遊戲開始",
+    "inProgress": "遊戲中",
+    "preEndOfGame": "遊戲即將結束",
+    "endOfGame": "遊戲結束"
+  },
+  "aram": {
+    "alwaysOnTop": "保持最上層",
+    "clear": "清空",
+    "champion": "英雄",
+    "summoner": "召喚師",
+    "isYou": "這是你",
+    "balanceTab": "平衡調整",
+    "pickTab": "選角",
+    "balance": {
+      "damage_dealt": "造成傷害",
+      "damage_taken": "承受傷害",
+      "healing": "治療量",
+      "shield_mod": "護盾量",
+      "tenacity": "韌性",
+      "energy_regeneration": "施法資源回復",
+      "ability_haste": "技能加速",
+      "attack_speed_scaling": "攻速比率"
+    }
+  },
+  "about": {
+    "author": "作者",
+    "currentVersion": "目前版本",
+    "help": "感謝您使用 Vua Lì Đòn 的軟體！\n<br/>\n您的支持與反饋是我不斷優化和升級工具的最大動力。\n"
+  },
+  "common": {
+    "teamOne": "藍方",
+    "teamTwo": "紅方",
+    "premade": {
+      "solo": "單排",
+      "duo": "雙排",
+      "trio": "三排",
+      "quad": "四排",
+      "quint": "五排"
+    },
+    "copy_success": "已複製",
+    "copy_failure": "複製失敗"
+  }
+}
