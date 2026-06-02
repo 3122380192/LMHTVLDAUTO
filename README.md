@@ -1,5 +1,5 @@
-# Auto Vua LÏ –Ún (LMHTVLDAUTO)
+# Auto Vua L√¨ √ê√≤n (LMHTVLDAUTO)
 
-–‚y l‡ noi luu tr? c·c b?n ph·t h‡nh chÌnh th?c c?a Auto Vua LÏ –Ún.
+√ê√¢y l√† n∆°i luu c√°c b·∫£n ph√°t h√†nh ch√≠nh th·ª©c c·ªßa Auto Vua L√¨ √ê√≤n.
 
-T?i ph?n m?m t?i m?c **Releases**.
+T·∫£i ph·∫ßn m·ªÅm t·∫°i m·ª•c **Releases**.
