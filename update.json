@@ -1,5 +1,5 @@
 {
-  " version\: \1.0.2\,
- \url\: \https://github.com/3122380192/LMHTVLDAUTO/releases\,
- \message\: \Đã có bản cập nhật mới v1.0.2 của người dùng Auto Vua Lì Ðòn! Vui lòng bấm cập nhật để sử dụng bản tiếp theo nhé.\
+  "version": "1.0.2",
+  "url": "https://github.com/3122380192/LMHTVLDAUTO/releases",
+  "message": "Cập nhật v1.0.2: Sửa lỗi nhận diện HWID không chính xác trên Windows Tiếng Việt/Windows Lite. Vui lòng cập nhật để tiếp tục sử dụng."
 }
